@@ -1637,6 +1637,7 @@ The key tools for building AI agents include benchmarks (to evalutae performance
 - [Marmot](https://github.com/google/marmot) - Marmot workflow execution engine
 - [Metropolis-Nim-Workflows](https://github.com/NVIDIA/metropolis-nim-workflows) - Collection of reference workflows for building intelligent agents with NIMs
 - [Modin](https://github.com/modin-project/modin) - Modin - Scale your Pandas workflows by changing a single line of code
+- [Mobile-Screenshot-To-Contacts](workflows/mobile-screenshot-to-contacts.md) - Mobile OCR workflow to extract text from screenshots, detect phone numbers/addresses, and sync results to Google Sheets and contacts.
 - [Molecule-Action](https://github.com/gofrolist/molecule-action) - GitHub Action for running molecule as part of your workflows!
 - [N8N-Workflows](https://github.com/reorx/n8n-workflows) - My workflows for n8n automation
 - [Nactivity](https://github.com/zhangzihan/nactivity) - workflow engine activity activiti
